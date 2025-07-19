@@ -17,7 +17,7 @@ var peso,
     nome2, 
     idade2;
 
-console.log(nome, idade, comida)
+console.log()
 
 
 
